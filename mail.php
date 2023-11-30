@@ -32,7 +32,7 @@ try {
   $mail->SMTPAuth   = true;
 
   // Настройки вашей почты
-  $mail->Host       = 'smtp.mail.ru'; // SMTP сервера вашей почты
+  $mail->Host       = 'smtp.gmail.com'; // SMTP сервера вашей почты
   $mail->Username   = 'slava071172'; // Логин на почте
   $mail->Password   = 'kkje gfdu yxmq whuk'; // Пароль на почте
   $mail->SMTPSecure = 'ssl';
