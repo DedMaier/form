@@ -33,8 +33,8 @@ try {
 
   // Настройки вашей почты
   $mail->Host       = 'smtp.gmail.com'; // SMTP сервера вашей почты
-  $mail->Username   = 'slava071172'; // Логин на почте
-  $mail->Password   = 'kkje gfdu yxmq whuk'; // Пароль на почте
+  $mail->Username   = 'slava071172@mail.ru'; // Логин на почте
+  $mail->Password   = 'gdn5ib9XNgtmLuDbfucA; // Пароль на почте
   $mail->SMTPSecure = 'ssl';
   $mail->Port       = 465;
 
